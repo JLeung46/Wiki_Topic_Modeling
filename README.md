@@ -1,4 +1,4 @@
 # Wiki_Topic_Modeling
-Utilizes AWS Spark and the K-Means algorithm to cluster Wikipedia Articles and predict the topic of a new article.
+This project serves as an introduction to Spark on AWS. It utilizes the K-Means algorithm to cluster Wikipedia Articles and predict the topic of a new article. Standard NLP techniques such as tokenization and term frequency weighting are used as pre-processing steps on the raw text.
 
 The dataset used contains a random 10% sample of all articles on Wikipedia.
