@@ -3,4 +3,4 @@ This project serves as an introduction to Spark on AWS. It utilizes the K-Means 
 
 The dataset used contains a random 10% sample of all articles on Wikipedia.
 
-Working on finding optimal clusters using elbow method and visualizating results.
+Currently working on finding optimal clusters using elbow method and visualizating results.
