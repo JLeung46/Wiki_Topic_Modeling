@@ -8,7 +8,7 @@ This project utilizes Spark on AWS and the K-Means algorithm to cluster Wikipedi
 The dataset used contains 15M articles on Wikipedia.
 
 ### Results
-Initialiaing the KMeans model with 10 clusters provides the following results:
+Initializing the KMeans model with 10 clusters provides the following results:
 
 
 ### Future Work
