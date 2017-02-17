@@ -28,7 +28,7 @@ Cluster 7 includes words about war and Iraq.
 
 Cluster 8 includes words about musical instruments.
 
-Clusters 2, 5, 9 are more difficult to decipher
+Clusters 2, 5, 9 are a bit more difficult to decipher. A solution to gather clearer results is to tune parameters such as the minimum document frequency and vocabulary size used for the CountVectorizer. Another is plotting the elbow method to determine the optimal number of clusters for the KMeans model. 
 
 
 
