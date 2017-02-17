@@ -10,6 +10,8 @@ The dataset used contains 15M articles on Wikipedia.
 ### Results
 Initializing the KMeans model with 10 clusters provides the following results:
 
+![alt tag](images/cluster_output.png)
+
 
 ### Future Work
 
