@@ -9,5 +9,5 @@ The dataset used contains 15M articles on Wikipedia.
 
 ### Future Work
 
-Find optimal clusters using elbow method.
-Tune Parameters (min_df,vocab_size).
+* Find optimal clusters using elbow method.
+* Tune Parameters (min_df,vocab_size).
